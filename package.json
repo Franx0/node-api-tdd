@@ -1,0 +1,25 @@
+{
+  "name": "api-tdd",
+  "version": "1.0.0",
+  "description": "Node API Rest project applying TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Franx0/node-api-tdd.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "rest",
+    "tdd"
+  ],
+  "author": "Franx0",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Franx0/node-api-tdd/issues"
+  },
+  "homepage": "https://github.com/Franx0/node-api-tdd#readme"
+}
